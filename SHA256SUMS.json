@@ -1,6 +1,7 @@
 {
-  ".github/scripts/repo-check.py": "f8fac030af5be8a69488478c68f14d1dd444add764d8425b8a7cf315b8761e9d",
-  ".github/workflows/repo-check.yml": "fa650ce964c7f974b138accaa014360f5c9db5d00e9fa641e7885259a85529b9",
+  ".gitattributes": "dc9456de920ba1cf3b5c94bc7f7e1db1d03b99d71f24c2ebbf8ce6d75a661d77",
+  ".github/scripts/repo-check.py": "c9ea44582efc77b971ec9e771402e4a465233e16e9945d3d43a8cab3d279c9d5",
+  ".github/workflows/repo-check.yml": "54c85623f1c5bd20dd60b3982871f27e9fb49b047abc1908640de627c333917a",
   ".gitignore": "c2b127ad62460cd7a0ab7764bb760a268eb4e72eb6267622dd8b72c216b3c622",
   "ACCEPTANCE.md": "8571146357f4065fd087f25803b91976152bc3ff5b21995aae845719d8c62a10",
   "ASSET-NOTICE.md": "92f123f9de93d05d93ed38e3b35d9175324d8dc078efed9749ddb5e91396c067",
