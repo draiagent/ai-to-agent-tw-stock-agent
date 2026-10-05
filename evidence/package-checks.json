@@ -1,0 +1,8 @@
+{
+  "relative_links": "PASS",
+  "python_syntax": "PASS",
+  "vac_unchanged": "PASS",
+  "usage_cjk_characters": 997,
+  "runtime_tests": "NOT_RERUN",
+  "upstream_hash_fix": "PENDING_CORRECTION_FILE"
+}

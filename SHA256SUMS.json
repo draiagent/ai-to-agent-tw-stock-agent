@@ -1,0 +1,23 @@
+{
+  ".github/scripts/repo-check.py": "f8fac030af5be8a69488478c68f14d1dd444add764d8425b8a7cf315b8761e9d",
+  ".github/workflows/repo-check.yml": "fa650ce964c7f974b138accaa014360f5c9db5d00e9fa641e7885259a85529b9",
+  ".gitignore": "c2b127ad62460cd7a0ab7764bb760a268eb4e72eb6267622dd8b72c216b3c622",
+  "ACCEPTANCE.md": "8571146357f4065fd087f25803b91976152bc3ff5b21995aae845719d8c62a10",
+  "ASSET-NOTICE.md": "92f123f9de93d05d93ed38e3b35d9175324d8dc078efed9749ddb5e91396c067",
+  "assets/tw-stock-agent-vac.png": "9467f97d384a3eb402245ae641139a93d939b1d3195383e367aada77f87f24d4",
+  "CHANGELOG.md": "52bdcc01e545733fe6b18d3c70c43505629d583ff76de3f29675ed11d2470a66",
+  "CONTRIBUTING.md": "7d88d313781d5f429e5327af69a64f1c2aaf03018e830ec0abb43cb2e48a7894",
+  "docs/codex-task.md": "66cb41b5dcdb6279a3156e1f08a69f0d77b7f435232cd9af2a862d58825ba1a1",
+  "docs/github-publish.md": "94ee4343f86348f026ea1857ebd12b66546e9093a2750da1b33103bff4241f77",
+  "docs/release-checklist.md": "3948dcc6c5fc8f12b00e506afef4db20029c43d3828c15d1e72ae35d0fcb8891",
+  "docs/release-notes.md": "f1640b09fda5553a43ac537fb346a58833f125609f39350907d50faaff15d9b5",
+  "docs/teaching-enterprise.md": "d84676c47e495f3a0651f890717329833fdcde42a534528344674ec3688b4c07",
+  "docs/usage.md": "0c993cc75f0d5703782120bdcf7593f79af03907274d63999799ee70531aaae7",
+  "docs/vac-spec.md": "e2c129e089332ba8f7943feb59c40a41a9fb02afa74e80b45e83b52fb83ffb3a",
+  "evidence/package-checks.json": "a422c34eabe6753b6fa16893f0317102dafb02f2abaf65c44e66bbd0766f3994",
+  "evidence/user-validation.md": "478f86c5228a130fcb116423e383b5c765addec7338abf944a0b9612a40c1b6a",
+  "LICENSE": "c3c6181a9710b77c9005ac638489a6fb8d9e460672bc6f9c680a7beef7aeef10",
+  "README.md": "62c19ed1dfc88080354f7d3ee4e1ff2e43cc25da3e72ee06d729071125c28fe0",
+  "scripts/checksums.py": "3c41b0a54ce828d1e7767b10578bdf0913be070410febc7a7d41bfe4ab1e9b5b",
+  "VERSION": "e9dd8507f4bf0c6f42458e41aea833ad0bd3f6127272335eee9bf4d58541ed67"
+}
